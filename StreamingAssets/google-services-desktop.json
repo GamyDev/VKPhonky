@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331549198526",
+    "project_id": "phonk-beat-bouncer",
+    "storage_bucket": "phonk-beat-bouncer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331549198526:android:14cdc3dc6f1dc4746bf6ef",
+        "android_client_info": {
+          "package_name": "com.EpicGamerZone.PhonkBall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAxvfbhmM20_QEHD9MW50igDd2eS2cG5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
